@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+#first_row{
+	background-color:#C0504D;
+}
+#second_row{
+	background-color:#DA9694;
+}
+#third_row{
+	background-color: #F2DCDB;
+}
+#fourth_row{
+	background-color: #D9D9D9;
+}
+.data{
+	text-align: right;
+}
